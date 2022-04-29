@@ -21,6 +21,14 @@ at a time. If your letter is in the word you will be able to see
 where it was in word the computer thought of.
 
 
+# Installing
+
+After installing python3 (if on windows you may have to add it to your
+PATH), simply use `git clone https://github.com/eoin-cr/Puzzles/` to
+download the puzzles.  Then do `cd Python` to go to the python puzzles.
+Then simply do `python3 [puzzlename].py` to play :)
+
+
 The English dictionary is available 
 [here](https://github.com/sujithps/Dictionary)
 

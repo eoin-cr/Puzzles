@@ -6,7 +6,7 @@ import mmap
 
 
 # def read_file():
-with open("Dictionary.txt") as f:
+with open("../Dictionary.txt") as f:
     file = f.read()
 
 file = file.split('\n')
