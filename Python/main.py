@@ -2,6 +2,7 @@ import random
 import string
 # from sets import set
 import os
+import mmap
 
 
 # def read_file():
@@ -9,6 +10,13 @@ with open("Dictionary.txt") as f:
     file = f.read()
 
 file = file.split('\n')
+
+# with open("Dictionary.txt", mode="r", encoding="utf8") as file_obj:
+#     with mmap.mmap(file_obj.fileno(), length=0, access=mmap.ACCESS_READ) as mmap_obj:
+#         text = mmap_obj.read()
+#         print(text)
+#
+# file = text.split(b'\n')
 # return file
 
 
@@ -67,6 +75,9 @@ def start():
 
     while len(prev_words) < len(valid_words) and word != "!STOP":
         # print(word)
+        print("Previous words:")
+        for element in prev_words:
+            print(element)
         print(f"The main letter is: {valid_letters[0]} \nThe other letters are:"
               f" {valid_letters[1:]}")
         word = input("Enter word (or enter !stop to stop): ")
@@ -75,9 +86,6 @@ def start():
         if word in valid_words and word not in prev_words:
             prev_words.append(word)
             print("Correct!")
-            print("Previous words:")
-            for element in prev_words:
-                print(element)
 
         elif word == "!STOP":
             print("Game stopped.  All the possible solutions were:")
