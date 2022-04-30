@@ -1,4 +1,14 @@
 import random
+import os
+
+# notes about this version:
+# most of the basic logic is working, however, functions such as an ace being
+# either 1 or 11 is missing.  There is also no split or double down function.
+# Also there is no option to play where you don't see the dealer's cards
+# until you stand.  I would also like to add some sort of money counter
+# and betting system, and maybe even the option to set how many decks are used
+# so it becomes possible to try counting cards.
+
 
 suits = ["♧", "♤", "♢", "♡"]
 suit_names = ["clubs", "spades", "diamonds", "hearts"]
@@ -19,7 +29,7 @@ def string_merger(array, whitespace):
         array[i] = array[i].split("\n")
 
     for i in range(len(array[0])):
-        for j in range(len(array)-1): output += array[j][i] + f"{''*whitespace}"
+        for j in range(len(array) - 1): output += array[j][i] + f"{'' * whitespace}"
         output += array[-1][i] + "\n"
         # output += array[0][i] + f"{''*whitespace}" + array[1][i] + "\n"
 
@@ -29,8 +39,12 @@ def string_merger(array, whitespace):
 def print_cards(cards):
     # print("HI")
     card_list = []
-    arr = []
+    # arr = []
+    # print(cards)
+    # print(len(cards))
+    # print(int(len(cards)/2))
     for i in range(int(len(cards) / 2)):
+        # print("hi")
         card = to_char(cards[i * 2])
         # print(f"""
         card_list.append(f"""
@@ -41,10 +55,15 @@ def print_cards(cards):
         |       |
         | {card:>6}|
         _________
-      {card} of {suit_names[cards[i*2+1]]:<8}""")
+      {card} of {suit_names[cards[i * 2 + 1]]:<8}""")
         # string += string
 
-    print(string_merger([card_list[0], card_list[1]], 3))
+    # card_list = [x for x in card_list]
+    print(string_merger(card_list, 3))
+    total_score = 0
+    for i in range(int(len(cards) / 2)): total_score += to_val(cards[i * 2])
+    print(f"Total score: {total_score}")
+    print("")
 
 
 def to_char(card):
@@ -67,15 +86,57 @@ def to_val(card):
 
 def game(selection):
     comp_cards = pick_cards() + pick_cards()
-    user_cards = pick_cards() + pick_cards()
-    user_score = to_val(user_cards[0]) + to_val(user_cards[2])
+    # user_cards = pick_cards() + pick_cards()
+    user_cards = pick_cards()
+    # user_score = to_val(user_cards[0]) + to_val(user_cards[2])
+    user_score = to_val(user_cards[0])
     comp_score = to_val(comp_cards[0]) + to_val(comp_cards[2])
 
     if selection == 1:
-        print("Dealer's cards:", end="")
-        print_cards(comp_cards)
-        print("Your cards:", end="")
-        print_cards(user_cards)
+        # user
+        choice = "H"
+        while choice != "S":
+            user_cards += pick_cards()
+            user_score += to_val(user_cards[-2])
+            os.system('cls' if os.name == 'nt' else 'clear')  # clears terminal
+            print("Dealer's cards:", end="")
+            print_cards(comp_cards)
+            print("Your cards:", end="")
+            print_cards(user_cards)
+            if (user_cards[0] == 1 and to_val(user_cards[2]) == 10 or
+                    to_val(user_cards[0]) == 10 and user_cards[0] == 1):
+                print("Blackjack!  You win!")
+                exit(0)
+            elif user_score > 21:
+                print("You're bust!  You lose.")
+                exit(0)
+
+            choice = input("Enter H to hit (get another card) or S to stand ("
+                           "stick with the cards you have)").upper()
+            while choice != "H" and choice != "S":
+                choice = input("Invalid input.  Enter H to hit or S to stand")
+
+        if user_score > 21:
+            print("You're bust!  You lose.")
+            exit(0)
+
+        while comp_score < 17:
+            comp_cards += pick_cards()
+            comp_score += to_val(comp_cards[-2])
+            os.system('cls' if os.name == 'nt' else 'clear')  # clears terminal
+            print("Dealer's cards:", end="")
+            print_cards(comp_cards)
+            print("Your cards:", end="")
+            print_cards(user_cards)
+
+        # print(user_score)
+        # print()
+        if user_score > comp_score or comp_score > 21:
+            print("You win!")
+        elif user_score == comp_score:
+            print("It's a draw!")
+        else:
+            print("The computer wins!")
 
 
 game(1)
