@@ -1,174 +1,5 @@
-  —adj.
- saffron
-'D
-'Em
-'Ll
-'S
-'Strewth
-'Struth
-'Tis
-'Twas
-'Tween
-'Twere
-'Twill
-'Twixt
-'Twould
-'Ve
--'s
--ability
--able
--ably
--ac
--acy
--age
--al
--an
--ance
--ancy
--ant
--ar
--ary
--ate
--ation
--cide
--cracy
--crat
--cratic
--cule
--cy
--cyte
--decker
--dom
--ectomy
--ed
--ee
--eer
--en
--ence
--ency
--ent
--er
--ery
--esque
--ess
--est
--eth
--ette
--ey
--faction
--ferous
--fic
--fication
--fold
--former
--free
--ful
--fy
--gen
--genous
--gram
--graph
--grapher
--graphic
--graphy
--hood
--ial
--ian
--ibility
--ible
--ibly
--ic
--ical
--ician
--ics
--ide
--ie
--ine
--ing
--ion
--ise
--ish
--ism
--ist
--ite
--itic
--itis
--ity
--ive
--ize
--kin
--less
--let
--like
--ling
--logic
--logist
--logy
--ly
--lysis
--lyte
--mania
--maniac
--ment
--meter
--metric
--metry
--most
--ness
--nik
--o
--o-
--oid
--ol
--or
--ory
--ose
--osis
--osity
--ous
--phil
--phile
--phobe
--phobia
--ry
--s'
--scope
--scopy
--seater
--ship
--sion
--so
--soever
--some
--speak
--ster
--teen
--th
--tion
--tron
--tude
--ty
--ule
--uncle
--ure
--ward
--wards
--ways
--wheeler
--wise
--worthy
--xion
--y
-A
-A-
-A-bomb
-A.m.
-A.s.a.p.
-A/c
-Aa
+saffron
 Aardvark
-Ab
-Ab-
 Aback
 Abacus
 Abaft
@@ -183,8 +14,6 @@ Abbess
 Abbey
 Abbot
 Abbreviate
-Abbé
-Abc
 Abdicate
 Abdomen
 Abduct
@@ -193,7 +22,6 @@ Aberdeen
 Aberdonian
 Aberrant
 Aberration
-Abet
 Abeyance
 Abhor
 Abhorrence
@@ -208,11 +36,9 @@ Ablaze
 Able
 Able-bodied
 Ablution
-Abm
 Abnegate
 Abnegation
 Abnormal
-Abo
 Aboard
 Abode
 Abolish
@@ -407,7 +233,6 @@ Acumen
 Acupuncture
 Acute
 Ad
-Ad-
 Adage
 Adagio
 Adam
@@ -518,7 +343,6 @@ Aeolian
 Aeon
 Aerate
 Aerial
-Aero-
 Aerobatics
 Aerobics
 Aerodrome
@@ -561,7 +385,6 @@ Aflame
 Afloat
 Afoot
 Afore
-Afore-
 Aforethought
 Afraid
 Afresh
@@ -569,7 +392,6 @@ African
 Afrikaans
 Afrikaner
 Afro
-Afro-
 Afro-american
 Afro-caribbean
 Aft
@@ -934,7 +756,6 @@ Amulet
 Amuse
 Amusement
 An
-An-
 Anabaptist
 Anabolic
 Anabolism
@@ -1007,7 +828,6 @@ Angle
 Anglican
 Anglicism
 Anglicize
-Anglo-
 Anglo-catholic
 Anglo-french
 Anglo-indian
@@ -1083,7 +903,6 @@ Antagonist
 Antagonize
 Antarctic
 Ante
-Ante-
 Ante-post
 Ante-room
 Anteater
@@ -1108,7 +927,6 @@ Anthropology
 Anthropomorphism
 Anthropomorphous
 Anti
-Anti-
 Anti-abortion
 Anti-aircraft
 Anti-hero
@@ -1333,7 +1151,6 @@ Arcade
 Arcadian
 Arcane
 Arch
-Arch-
 Arch-enemy
 Archaean
 Archaeology
@@ -1675,7 +1492,6 @@ Audacious
 Audible
 Audience
 Audio
-Audio-
 Audiotape
 Audiovisual
 Audit
@@ -1728,7 +1544,6 @@ Authorized
 Authorship
 Autism
 Auto
-Auto-
 Auto-da-fé
 Auto-suggestion
 Autobahn
@@ -1822,15 +1637,6 @@ Azimuth
 Azt
 Aztec
 Azure
-B
-B.
-B.f.
-B.h.p.
-B.mus.
-B.sc.
-B.th.u.
-Ba
-Baa
 Babble
 Babe
 Babel
@@ -2216,7 +2022,6 @@ Bezel
 Bezique
 Bhang
 Bi
-Bi-
 Biannual
 Bias
 Biathlon
@@ -2299,7 +2104,6 @@ Binocular
 Binoculars
 Binomial
 Bint
-Bio-
 Biochemistry
 Biodegradable
 Bioengineering
@@ -3236,7 +3040,6 @@ Buzz-word
 Buzzard
 Buzzer
 By
-By-
 By-election
 By-law
 By-product
@@ -3254,15 +3057,6 @@ Byte
 Byway
 Byword
 Byzantine
-C
-C.
-C.p.
-C.v.
-C/o
-C/s
-Ca
-Ca.
-Caa
 Cab
 Cabal
 Cabaret
@@ -3560,7 +3354,6 @@ Carbine
 Carbohydrate
 Carbolic
 Carbon
-Carbon-
 Carbonaceous
 Carbonate
 Carbonic
@@ -3725,7 +3518,6 @@ Cat's-eye
 Cat's-paw
 Cat-and-dog
 Cat-o'-nine-tails
-Cata-
 Catabolism
 Catachresis
 Cataclysm
@@ -3750,7 +3542,6 @@ Catastrophe
 Catatonia
 Catcall
 Catch
-Catch-
 Catch-all
 Catch-as-catch-can
 Catch-phrase
@@ -3894,7 +3685,6 @@ Center
 Centerboard
 Centerfold
 Centesimal
-Centi-
 Centigrade
 Centigram
 Centiliter
@@ -4198,7 +3988,6 @@ Chipboard
 Chipmunk
 Chipolata
 Chippendale
-Chiro-
 Chiromancy
 Chiropody
 Chiropractic
@@ -4328,7 +4117,6 @@ Cinchona
 Cincture
 Cinder
 Cinderella
-Cine-
 Cinema
 Cinematography
 Cineraria
@@ -4350,7 +4138,6 @@ Circularize
 Circulate
 Circulation
 Circulatory
-Circum-
 Circumcise
 Circumference
 Circumflex
@@ -4575,7 +4362,6 @@ Cm
 Cmg
 Cnd
 Co
-Co-
 Co-op
 Co-opt
 Co-respondent
@@ -4713,7 +4499,6 @@ Coition
 Coitus
 Coke
 Col
-Col-
 Col.
 Cola
 Colander
@@ -4797,7 +4582,6 @@ Coltsfoot
 Columbine
 Column
 Columnist
-Com-
 Coma
 Comatose
 Comb
@@ -4992,7 +4776,6 @@ Computerize
 Compère
 Comrade
 Con
-Con-
 Concatenation
 Concave
 Conceal
@@ -5287,7 +5070,6 @@ Contort
 Contortionist
 Contour
 Contra
-Contra-
 Contraband
 Contraception
 Contraceptive
@@ -5420,7 +5202,6 @@ Copywriter
 Coq
 Coquette
 Cor
-Cor-
 Coracle
 Coral
 Coralline
@@ -5559,7 +5340,6 @@ Countable
 Countdown
 Countenance
 Counter
-Counter-
 Counter-attack
 Counter-clockwise
 Counter-espionage
@@ -6116,7 +5896,6 @@ Cycle
 Cycle-track
 Cyclic
 Cyclist
-Cyclo-
 Cyclone
 Cyclotron
 Cygnet
@@ -6138,16 +5917,6 @@ Cytoplasm
 Czar
 Czech
 Czechoslovak
-D
-D-day
-D-layer
-D-notice
-D.
-D.litt.
-D.mus.
-D.phil.
-D.sc.
-Da
 Dab
 Dabble
 Dabchick
@@ -6282,7 +6051,6 @@ Dc
 Dd
 Ddt
 De
-De-
 De-escalate
 De-ice
 Deacon
@@ -6343,7 +6111,6 @@ Debunk
 Debut
 Debutante
 Dec.
-Deca-
 Decade
 Decadence
 Decaffeinated
@@ -6376,7 +6143,6 @@ Decent
 Decentralize
 Deception
 Deceptive
-Deci-
 Decibel
 Decide
 Decided
@@ -6565,7 +6331,6 @@ Demerara
 Demerger
 Demerit
 Demesne
-Demi-
 Demi-monde
 Demigod
 Demijohn
@@ -6857,8 +6622,6 @@ Dfm
 Dhal
 Dharma
 Dhoti
-Di-
-Dia-
 Dia.
 Diabetes
 Diabetic
@@ -6946,7 +6709,6 @@ Diet
 Dietetic
 Dietetics
 Dietitian
-Dif-
 Differ
 Difference
 Different
@@ -7064,7 +6826,6 @@ Dirk
 Dirndl
 Dirt
 Dirty
-Dis-
 Disability
 Disable
 Disabuse
@@ -7847,7 +7608,6 @@ Dynamometer
 Dynast
 Dynasty
 Dyne
-Dys-
 Dysentery
 Dysfunction
 Dyslexia
@@ -7856,21 +7616,6 @@ Dyspepsia
 Dysphasia
 Dysprosium
 Dystrophy
-Dáil
-Début
-Débutante
-Débâcle
-Décolletage
-Décolleté
-Décor
-Déjà
-Déshabillé
-Détente
-E
-E-
-E-number
-E.
-E.g.
 Each
 Eager
 Eagle
@@ -7950,7 +7695,6 @@ Eclectic
 Eclipse
 Ecliptic
 Eclogue
-Eco-
 Ecology
 Economic
 Economical
@@ -7962,7 +7706,6 @@ Economy-size
 Ecosystem
 Ecstasy
 Ect
-Ecto-
 Ectomorph
 Ectoplasm
 Ecu
@@ -7998,7 +7741,6 @@ Eec
 Eeg
 Eel
 Eerie
-Ef-
 Efface
 Effect
 Effective
@@ -8085,7 +7827,6 @@ Electrical
 Electrician
 Electricity
 Electrify
-Electro-
 Electro-shock
 Electrocardiogram
 Electrocardiograph
@@ -8160,7 +7901,6 @@ Elves
 Elvish
 Elysium
 Em
-Em-
 Emaciate
 Email
 Emanate
@@ -8245,7 +7985,6 @@ Emulate
 Emulsify
 Emulsion
 En
-En-
 Enable
 Enact
 Enactment
@@ -8291,7 +8030,6 @@ Ending
 Endive
 Endless
 Endmost
-Endo-
 Endocrine
 Endogenous
 Endometrium
@@ -8443,7 +8181,6 @@ Epaulette
 Ephedrine
 Ephemera
 Ephemeral
-Epi-
 Epic
 Epicene
 Epicenter
@@ -8498,7 +8235,6 @@ Equator
 Equatorial
 Equerry
 Equestrian
-Equi-
 Equiangular
 Equidistant
 Equilateral
@@ -8635,7 +8371,6 @@ Etiquette
 Etruscan
 Etymology
 Eu
-Eu-
 Eucalyptus
 Eucharist
 Eugenics
@@ -8649,7 +8384,6 @@ Euphony
 Euphoria
 Eurasian
 Eureka
-Euro-
 Eurodollar
 European
 Europium
@@ -8711,7 +8445,6 @@ Evolve
 Ewe
 Ewer
 Ex
-Ex-
 Ex-directory
 Ex-serviceman
 Ex-servicewoman
@@ -8802,7 +8535,6 @@ Existence
 Existential
 Existentialism
 Exit
-Exo-
 Exocrine
 Exodus
 Exonerate
@@ -8906,7 +8638,6 @@ Extort
 Extortion
 Extortionate
 Extra
-Extra-
 Extract
 Extraction
 Extractive
@@ -8956,9 +8687,6 @@ Eyesore
 Eyewash
 Eyewitness
 Eyrie
-F
-F-number
-Fa
 Fab
 Fable
 Fabled
@@ -9245,7 +8973,6 @@ Ferrel
 Ferret
 Ferric
 Ferris
-Ferro-
 Ferroconcrete
 Ferrous
 Ferrule
@@ -9854,7 +9581,6 @@ Footwear
 Footwork
 Fop
 For
-For-
 Forage
 Forasmuch
 Foray
@@ -9875,7 +9601,6 @@ Forceps
 Forcible
 Ford
 Fore
-Fore-
 Forearm
 Forebear
 Forebode
@@ -10052,7 +9777,6 @@ Franc
 Franchise
 Franciscan
 Francium
-Franco-
 Franglais
 Frank
 Frankenstein
@@ -10318,12 +10042,8 @@ Fuze
 Fuzz
 Fuzzy
 Fête
-Führer
-G
-G-man
 G-string
 G-suit
-Ga
 Gab
 Gabardine
 Gabble
@@ -10372,7 +10092,6 @@ Gallicism
 Gallinaceous
 Gallium
 Gallivant
-Gallo-
 Gallon
 Gallop
 Gallows
@@ -10464,7 +10183,6 @@ Gassy
 Gasteropod
 Gastric
 Gastritis
-Gastro-
 Gastro-enteritis
 Gastronome
 Gastronomy
@@ -10585,7 +10303,6 @@ Gentry
 Genuflect
 Genuine
 Genus
-Geo-
 Geocentric
 Geode
 Geodesic
@@ -10610,7 +10327,6 @@ Germander
 Germane
 Germanic
 Germanium
-Germano-
 Germicide
 Germinal
 Germinate
@@ -10656,7 +10372,6 @@ Gift
 Gift-wrap
 Gifted
 Gig
-Giga-
 Gigantic
 Giggle
 Gigolo
@@ -11309,16 +11024,8 @@ Gypsy
 Gyrate
 Gyrfalcon
 Gyro
-Gyro-
 Gyrocompass
 Gyroscope
-Gîte
-H
-H-bomb
-H.
-H.p.
-Ha
-Ha-ha
 Habeas
 Haberdasher
 Habiliment
@@ -11358,7 +11065,6 @@ Hag
 Haggard
 Haggis
 Haggle
-Hagio-
 Hagiography
 Hagiology
 Hagridden
@@ -11764,7 +11470,6 @@ Heck
 Heckle
 Hectare
 Hectic
-Hecto-
 Hectogram
 Hector
 Hedge
@@ -11792,7 +11497,6 @@ Hele
 Helical
 Helices
 Helicopter
-Helio-
 Heliocentric
 Heliograph
 Heliotrope
@@ -11825,7 +11529,6 @@ Hem
 Hemal
 Hematite
 Hematology
-Hemi-
 Hemipterous
 Hemisphere
 Hemline
@@ -11851,7 +11554,6 @@ Henry
 Hep
 Hepatic
 Hepatitis
-Hepta-
 Heptagon
 Her
 Herald
@@ -11911,7 +11613,6 @@ Hesitant
 Hesitate
 Hessian
 Het
-Hetero-
 Heterodox
 Heterodyne
 Heterogeneous
@@ -11920,7 +11621,6 @@ Heterosexual
 Heuristic
 Hew
 Hex
-Hexa-
 Hexadecimal
 Hexagon
 Hexagram
@@ -12144,7 +11844,6 @@ Homing
 Hominid
 Hominoid
 Homo
-Homo-
 Homoeopathy
 Homogeneous
 Homogenize
@@ -12449,7 +12148,6 @@ Hydraulic
 Hydraulics
 Hydride
 Hydro
-Hydro-
 Hydrocarbon
 Hydrocephalus
 Hydrochloric
@@ -12491,7 +12189,6 @@ Hyoscine
 Hype
 Hyped
 Hyper
-Hyper-
 Hyperactive
 Hyperbola
 Hyperbole
@@ -12516,7 +12213,6 @@ Hypnotic
 Hypnotism
 Hypnotize
 Hypo
-Hypo-
 Hypocaust
 Hypochondria
 Hypochondriac
@@ -12545,7 +12241,6 @@ I'd
 I'll
 I'm
 I've
-I.e.
 Iambic
 Iambus
 Iba
@@ -12626,7 +12321,6 @@ Iguana
 Iguanodon
 Ikebana
 Ikon
-Il-
 Ileum
 Ilex
 Iliac
@@ -12664,7 +12358,6 @@ Illustrate
 Illustration
 Illustrative
 Illustrious
-Im-
 Image
 Imagery
 Imaginary
@@ -12829,7 +12522,6 @@ Impure
 Impurity
 Impute
 In
-In-
 In-between
 In-depth
 In-house
@@ -13040,7 +12732,6 @@ Individuality
 Individualize
 Individually
 Indivisible
-Indo-
 Indo-european
 Indoctrinate
 Indolent
@@ -13169,7 +12860,6 @@ Informative
 Informed
 Informer
 Infra
-Infra-
 Infraction
 Infrared
 Infrastructure
@@ -13388,7 +13078,6 @@ Intent
 Intention
 Intentional
 Inter
-Inter-
 Inter-city
 Interact
 Interactive
@@ -13498,7 +13187,6 @@ Intonation
 Intone
 Intoxicant
 Intoxicate
-Intra-
 Intractable
 Intramural
 Intramuscular
@@ -13511,7 +13199,6 @@ Intricate
 Intrigue
 Intrinsic
 Intro
-Intro-
 Introduce
 Introduction
 Introductory
@@ -13588,7 +13275,6 @@ Ipa
 Ipecacuanha
 Ipso
 Iq
-Ir-
 Ira
 Iranian
 Iraqi
@@ -13656,7 +13342,6 @@ Isle
 Islet
 Ism
 Isn't
-Iso-
 Isobar
 Isochronous
 Isolate
@@ -13695,8 +13380,6 @@ Iud
 Ivf
 Ivory
 Ivy
-J
-J'adoube
 Jab
 Jabber
 Jabot
@@ -13986,8 +13669,6 @@ Jute
 Juvenile
 Juvenilia
 Juxtapose
-K
-K.p.h.
 Kaffir
 Kafkaesque
 Kaftan
@@ -14091,7 +13772,6 @@ Killing
 Killjoy
 Kiln
 Kilo
-Kilo-
 Kilobyte
 Kilocalorie
 Kilocycle
@@ -14264,16 +13944,7 @@ Kw
 Kwh
 Kyle
 Kümmel
-L
-L-plate
-L.b.w.
-L.c.
-L.s.d.
-L/cpl
-La
-La-di-da
 Lab
-Lab.
 Label
 Labial
 Labium
@@ -14688,7 +14359,6 @@ Lettered
 Letterhead
 Letterpress
 Lettuce
-Leuco-
 Leucocyte
 Leukaemia
 Leukemia
@@ -15273,14 +14943,6 @@ Lyrical
 Lyricism
 Lyricist
 Lysergic
-M
-M.i.
-M.litt.
-M.p.g.
-M.p.h.
-M.phil.
-M.sc.
-Ma
 Ma'am
 Mac
 Macabre
@@ -15308,7 +14970,6 @@ Mack
 Mackerel
 Mackintosh
 Macramé
-Macro-
 Macrobiotic
 Macrocarpa
 Macrocosm
@@ -15426,7 +15087,6 @@ Maker
 Makeshift
 Makeweight
 Making
-Mal-
 Malachite
 Maladjusted
 Maladminister
@@ -15767,7 +15427,6 @@ Maw
 Mawkish
 Max.
 Maxi
-Maxi-
 Maxilla
 Maxim
 Maxima
@@ -15877,7 +15536,6 @@ Meerschaum
 Meet
 Meeting
 Mega
-Mega-
 Megabuck
 Megabyte
 Megadeath
@@ -15997,7 +15655,6 @@ Mesdemoiselles
 Mesembryanthemum
 Mesh
 Mesmerize
-Meso-
 Mesolithic
 Mesomorph
 Meson
@@ -16013,7 +15670,6 @@ Messieurs
 Messrs
 Messy
 Met
-Meta-
 Metabolism
 Metabolite
 Metabolize
@@ -16092,7 +15748,6 @@ Mickey
 Mickle
 Micky
 Micro
-Micro-
 Micro-electronics
 Micro-organism
 Microbe
@@ -16199,7 +15854,6 @@ Miller's
 Millesimal
 Millet
 Millet-grass
-Milli-
 Milliard
 Millibar
 Milligram
@@ -16252,7 +15906,6 @@ Ming
 Mingle
 Mingy
 Mini
-Mini-
 Miniature
 Miniaturize
 Minibus
@@ -16293,7 +15946,6 @@ Miras
 Mire
 Mirror
 Mirth
-Mis-
 Misadventure
 Misalliance
 Misanthrope
@@ -16531,7 +16183,6 @@ Monkey-nut
 Monkey-puzzle
 Monkshood
 Mono
-Mono-
 Monochromatic
 Monochrome
 Monocle
@@ -16772,7 +16423,6 @@ Mullah
 Mullet
 Mulligatawny
 Mullion
-Multi-
 Multi-access
 Multi-purpose
 Multi-storey
@@ -16909,9 +16559,6 @@ Mésalliance
 Métier
 Mêlée
 Möbius
-N
-N't
-Na
 Naafi
 Nab
 Nacho
@@ -16935,7 +16582,6 @@ Namesake
 Nan
 Nancy
 Nanny
-Nano-
 Nap
 Napalm
 Nape
@@ -17032,7 +16678,6 @@ Neckerchief
 Necklace
 Neckline
 Necktie
-Necro-
 Necromancy
 Necrophilia
 Necropolis
@@ -17080,7 +16725,6 @@ Nelson
 Nem.
 Nematode
 Nemesis
-Neo-
 Neoclassicism
 Neodymium
 Neolithic
@@ -17116,7 +16760,6 @@ Network
 Neural
 Neuralgia
 Neuritis
-Neuro-
 Neurology
 Neuron
 Neurosis
@@ -17236,7 +16879,6 @@ Nitric
 Nitride
 Nitrify
 Nitrite
-Nitro-
 Nitrogen
 Nitroglycerin
 Nitroglycerine
@@ -17283,7 +16925,6 @@ Nominate
 Nominative
 Nominee
 Non
-Non-
 Non-aggression
 Non-alcoholic
 Non-aligned
@@ -17528,11 +17169,8 @@ Nympho
 Nymphomania
 Nz
 Née
-O
-O'
 O'clock
 O'er
-O.n.o.
 Oaf
 Oak
 Oak-apple
@@ -17549,7 +17187,6 @@ Oath
 Oatmeal
 Oau
 Ob
-Ob-
 Ob.
 Obbligato
 Obdurate
@@ -17616,7 +17253,6 @@ Obverse
 Obviate
 Obvious
 Oc
-Oc-
 Ocarina
 Occasion
 Occasional
@@ -17639,14 +17275,12 @@ Ocelot
 Ocher
 Ochre
 Oct.
-Octa-
 Octagon
 Octahedron
 Octane
 Octave
 Octavo
 Octet
-Octo-
 October
 Octogenarian
 Octopus
@@ -17674,7 +17308,6 @@ Oesophagus
 Oestrogen
 Oestrus
 Of
-Of-
 Off
 Off-centre
 Off-day
@@ -17770,7 +17403,6 @@ Omicron
 Ominous
 Omission
 Omit
-Omni-
 Omnibus
 Omnipotent
 Omnipresent
@@ -17828,7 +17460,6 @@ Oomph
 Oops
 Ooze
 Op
-Op-
 Op.
 Opacity
 Opal
@@ -17979,7 +17610,6 @@ Orphan
 Orphanage
 Orrery
 Orris
-Ortho-
 Orthodontics
 Orthodox
 Orthography
@@ -17989,7 +17619,6 @@ Ortolan
 Os
 Oscar
 Oscillate
-Oscillo-
 Oscilloscope
 Osier
 Osmium
@@ -18001,7 +17630,6 @@ Ossify
 Ostensible
 Ostensive
 Ostentation
-Osteo-
 Osteoarthritis
 Osteopathy
 Osteoporosis
@@ -18030,7 +17658,6 @@ Ourselves
 Ousel
 Oust
 Out
-Out-
 Out-take
 Out-tray
 Outage
@@ -18126,7 +17753,6 @@ Oven-ready
 Ovenproof
 Ovenware
 Over
-Over-
 Over-abundance
 Over-active
 Over-anxious
@@ -18265,7 +17891,6 @@ Overwhelming
 Overwind
 Overwork
 Overwrought
-Ovi-
 Oviduct
 Oviform
 Ovine
@@ -18309,14 +17934,6 @@ Oyster-catcher
 Oz
 Ozone
 Ozone-friendly
-P
-P.
-P.a.
-P.c.
-P.d.q.
-P.m.
-P.p.
-Pa
 Pabulum
 Pace
 Pace-setter
@@ -18350,7 +17967,6 @@ Paean
 Paederast
 Paederasty
 Paediatrics
-Paedo-
 Paedophile
 Paedophilia
 Paella
@@ -18388,7 +18004,6 @@ Paki
 Pakistani
 Pal
 Palace
-Palaeo-
 Palaeography
 Palaeolithic
 Palaeontology
@@ -18404,7 +18019,6 @@ Palatine
 Palaver
 Pale
 Paleface
-Paleo-
 Paleocene
 Paleography
 Paleolithic
@@ -18445,7 +18059,6 @@ Pamper
 Pamphlet
 Pamphleteer
 Pan
-Pan-
 Pan-pipes
 Panacea
 Panache
@@ -18518,9 +18131,7 @@ Papoose
 Paprika
 Papyrus
 Par
-Par-
 Para
-Para-
 Parable
 Parabola
 Paracetamol
@@ -18854,7 +18465,6 @@ Pedicure
 Pedigree
 Pediment
 Pedlar
-Pedo-
 Pedometer
 Pedophile
 Pedophilia
@@ -18932,7 +18542,6 @@ Pensionable
 Pensioner
 Pensive
 Pent
-Penta-
 Pentacle
 Pentagon
 Pentagram
@@ -18964,7 +18573,6 @@ Pepsin
 Peptic
 Peptide
 Per
-Per-
 Peradventure
 Perambulate
 Perambulator
@@ -19002,7 +18610,6 @@ Perfumer
 Perfunctory
 Pergola
 Perhaps
-Peri-
 Perianth
 Pericardium
 Perigee
@@ -19162,7 +18769,6 @@ Pheromone
 Phew
 Phi
 Phial
-Phil-
 Philadelphus
 Philander
 Philanthropy
@@ -19171,7 +18777,6 @@ Philharmonic
 Philippic
 Philistine
 Phillips
-Philo-
 Philodendron
 Philology
 Philosopher
@@ -19196,7 +18801,6 @@ Phonetic
 Phonetics
 Phoney
 Phonic
-Phono-
 Phonograph
 Phonology
 Phony
@@ -19205,7 +18809,6 @@ Phosphor
 Phosphorescence
 Phosphorus
 Photo
-Photo-
 Photochemistry
 Photocopier
 Photocopy
@@ -19271,7 +18874,6 @@ Pickle
 Pickpocket
 Picky
 Picnic
-Pico-
 Pict
 Pictograph
 Pictorial
@@ -19715,7 +19317,6 @@ Polonium
 Poltergeist
 Poltroon
 Poly
-Poly-
 Polyandry
 Polyanthus
 Polychromatic
@@ -19867,7 +19468,6 @@ Possible
 Possibly
 Possum
 Post
-Post-
 Post-coital
 Post-free
 Post-haste
@@ -20001,7 +19601,6 @@ Prayer-book
 Prayer-mat
 Prayer-wheel
 Praying
-Pre-
 Pre-amp
 Pre-christian
 Pre-echo
@@ -20263,7 +19862,6 @@ Prize-giving
 Prizefight
 Prizewinner
 Pro
-Pro-
 Proactive
 Probability
 Probable
@@ -20459,7 +20057,6 @@ Protest
 Protestant
 Protestation
 Protium
-Proto-
 Protocol
 Proton
 Protoplasm
@@ -20519,7 +20116,6 @@ Psaltery
 Psephology
 Pseud
 Pseudo
-Pseudo-
 Pseudonym
 Psi
 Psittacosis
@@ -20534,7 +20130,6 @@ Psychiatry
 Psychic
 Psychical
 Psycho
-Psycho-
 Psychoanalysis
 Psychokinesis
 Psychological
@@ -20744,7 +20339,6 @@ Pyretic
 Pyrex
 Pyrexia
 Pyrites
-Pyro-
 Pyromania
 Pyrotechnics
 Pyrrhic
@@ -20752,14 +20346,6 @@ Pythagoras'
 Python
 Pyx
 Pâté
-Q
-Q.v.
-Qc
-Qed
-Qm
-Qr.
-Qt
-Qua
 Quack
 Quad
 Quadragesima
@@ -20768,7 +20354,6 @@ Quadrant
 Quadraphonic
 Quadrate
 Quadratic
-Quadri-
 Quadriceps
 Quadrilateral
 Quadrille
@@ -20815,7 +20400,6 @@ Quarto
 Quartz
 Quasar
 Quash
-Quasi-
 Quaternary
 Quatrain
 Quatrefoil
@@ -20908,10 +20492,6 @@ Quoth
 Quotidian
 Quotient
 Qwerty
-R
-R.
-R.h.
-Ra
 Rabbet
 Rabbi
 Rabbit
@@ -20955,7 +20535,6 @@ Radicchio
 Radicle
 Radii
 Radio
-Radio-
 Radio-controlled
 Radio-telegraphy
 Radio-telephony
@@ -21148,7 +20727,6 @@ Rb
 Rc
 Rd.
 Re
-Re-
 Re-count
 Re-cover
 Re-create
@@ -21892,7 +21470,6 @@ Retribution
 Retrieve
 Retriever
 Retro
-Retro-
 Retroactive
 Retrod
 Retrodden
@@ -22231,7 +21808,6 @@ Romanesque
 Romanian
 Romanic
 Romanize
-Romano-
 Romantic
 Romanticism
 Romanticist
@@ -22454,7 +22030,6 @@ Rushlight
 Rusk
 Russet
 Russian
-Russo-
 Rust
 Rustic
 Rusticate
@@ -22470,13 +22045,7 @@ Rye
 Ryegrass
 Résumé
 Röntgen
-S
 S-bend
-S.
-S.a.e.
-S.c.
-S/he
-Sa
 Sabbath
 Sabbatical
 Saber
@@ -23144,7 +22713,6 @@ Selective
 Selector
 Selenium
 Self
-Self-
 Self-abasement
 Self-absorption
 Self-abuse
@@ -23261,7 +22829,6 @@ Semblance
 Semen
 Semester
 Semi
-Semi-
 Semi-conscious
 Semi-detached
 Semi-permeable
@@ -23402,7 +22969,6 @@ Servitor
 Servitude
 Servo
 Sesame
-Sesqui-
 Sessile
 Session
 Sestet
@@ -23909,7 +23475,6 @@ Sinker
 Sinking
 Sinn
 Sinner
-Sino-
 Sinology
 Sinuous
 Sinus
@@ -24337,7 +23902,6 @@ Socialism
 Socialite
 Socialize
 Society
-Socio-
 Sociology
 Sock
 Socket
@@ -25064,7 +24628,6 @@ Stencil
 Stenographer
 Stentorian
 Step
-Step-
 Step-parent
 Stepbrother
 Stepchild
@@ -25078,7 +24641,6 @@ Stepping-stone
 Stepsister
 Stepson
 Stereo
-Stereo-
 Stereophonic
 Stereoscope
 Stereotype
@@ -25334,7 +24896,6 @@ Strongbox
 Stronghold
 Strongroom
 Strontium
-Strontium-
 Strop
 Stroppy
 Strove
@@ -25401,7 +24962,6 @@ Styrene
 Suasion
 Suave
 Sub
-Sub-
 Sub-aqua
 Sub-editor
 Sub-lieutenant
@@ -25488,7 +25048,6 @@ Subversive
 Subvert
 Subway
 Subzero
-Suc-
 Succeed
 Success
 Successful
@@ -25517,7 +25076,6 @@ Suds
 Sue
 Suede
 Suet
-Suf-
 Suffer
 Sufferance
 Suffice
@@ -25530,7 +25088,6 @@ Suffrage
 Suffragette
 Suffuse
 Sufi
-Sug-
 Sugar
 Sugar-daddy
 Sugary
@@ -25623,9 +25180,7 @@ Sunstroke
 Suntan
 Suntrap
 Sup
-Sup-
 Super
-Super-
 Superabundant
 Superannuate
 Superannuation
@@ -25691,12 +25246,10 @@ Suppository
 Suppress
 Suppurate
 Supra
-Supra-
 Supranational
 Supremacy
 Supreme
 Supremo
-Sur-
 Surcease
 Surcharge
 Surd
@@ -25737,7 +25290,6 @@ Surveyor
 Survival
 Survive
 Sus
-Sus-
 Susceptibility
 Susceptible
 Sushi
@@ -25863,7 +25415,6 @@ Swung
 Sybarite
 Sycamore
 Sycophant
-Syl-
 Syllabary
 Syllabic
 Syllable
@@ -25874,7 +25425,6 @@ Syllogism
 Sylph
 Sylvan
 Sylviculture
-Sym-
 Symbiosis
 Symbol
 Symbolism
@@ -25886,7 +25436,6 @@ Sympathy
 Symphony
 Symposium
 Symptom
-Syn-
 Synagogue
 Synapse
 Sync
@@ -25926,17 +25475,10 @@ Systematic
 Systematize
 Systemic
 Systems
-T
-T'ai
-T'other
 T-bone
 T-junction
 T-shirt
 T-square
-T.
-T.b.a.
-Ta
-Ta-ta
 Tab
 Tabard
 Tabasco
@@ -26230,7 +25772,6 @@ Teff
 Tefl
 Teflon
 Tel.
-Tele-
 Tele-ad
 Telecast
 Telecommunication
@@ -26334,7 +25875,6 @@ Tenure
 Tepee
 Tepid
 Tequila
-Tera-
 Terbium
 Tercel
 Tercentenary
@@ -26406,7 +25946,6 @@ Testy
 Tetanus
 Tetchy
 Tether
-Tetra-
 Tetrad
 Tetragon
 Tetrahedron
@@ -26448,7 +25987,6 @@ Themselves
 Then
 Thence
 Thenceforth
-Theo-
 Theocracy
 Theodolite
 Theologian
@@ -26475,7 +26013,6 @@ Thereupon
 Therm
 Thermal
 Thermionic
-Thermo-
 Thermocouple
 Thermodynamics
 Thermoelectric
@@ -27092,7 +26629,6 @@ Tranquilize
 Tranquilizer
 Tranquillize
 Tranquillizer
-Trans-
 Transact
 Transaction
 Transalpine
@@ -27223,7 +26759,6 @@ Trespass
 Tress
 Trestle
 Trews
-Tri-
 Triad
 Trial
 Triangle
@@ -27458,14 +26993,12 @@ Turban
 Turbid
 Turbine
 Turbo
-Turbo-
 Turbocharger
 Turbofan
 Turbojet
 Turboprop
 Turbot
 Turbulent
-Turco-
 Turd
 Tureen
 Turf
@@ -27477,7 +27010,6 @@ Turkey
 Turkeycock
 Turki
 Turkish
-Turko-
 Turmeric
 Turmoil
 Turn
@@ -27608,30 +27140,13 @@ Tyrannosaurus
 Tyranny
 Tyrant
 Tyre
-Tyrian
-Tyro
-Tzatziki
-Tête-à-tête
-U
 U-boat
 U-turn
-U.c.
-Ub
 Ubiquitous
-Ucca
-Uda
 Udder
-Udi
-Udr
-Uefa
 Ufo
 Ugh
-Ugli
-Uglify
 Ugly
-Uh-huh
-Uhf
-Uht
 Uk
 Ukrainian
 Ukulele
@@ -27641,13 +27156,11 @@ Ullage
 Ulna
 Ulster
 Ulsterman
-Ult.
 Ulterior
 Ultimate
 Ultimatum
 Ultimo
 Ultra
-Ultra-
 Ultra-high
 Ultramarine
 Ultramicroscopic
@@ -27657,9 +27170,6 @@ Ultrasonics
 Ultrasound
 Ultraviolet
 Ululate
-Um
-Umbel
-Umbelliferous
 Umber
 Umbilical
 Umbilicus
@@ -27670,7 +27180,6 @@ Umlaut
 Umpire
 Umpteen
 Un
-Un-
 Un-american
 Unabashed
 Unabated
@@ -27865,7 +27374,6 @@ Undemocratic
 Undemonstrative
 Undeniable
 Under
-Under-
 Under-age
 Under-secretary
 Underachieve
@@ -28133,7 +27641,6 @@ Unhurried
 Unhurt
 Unhygienic
 Uni
-Uni-
 Uniat
 Unicameral
 Unicef
@@ -28587,7 +28094,6 @@ Unwritten
 Unyielding
 Unzip
 Up
-Up-
 Up-and-coming
 Up-and-over
 Up-country
@@ -28703,12 +28209,7 @@ Uvpc
 Uvula
 Uxorial
 Uxorious
-V
 V-neck
-V-sign
-V.
-V.g.c.
-Vac
 Vacancy
 Vacant
 Vacate
@@ -28947,7 +28448,6 @@ Vicar
 Vicarage
 Vicarious
 Vice
-Vice-
 Vice-chancellor
 Vice-president
 Viceregal
@@ -29165,11 +28665,6 @@ Vulture
 Vulva
 Vv.
 Vying
-W
-W.
-W.p.m.
-W/cdr.
-Wa
 Wacky
 Wad
 Wadding
@@ -30090,22 +29585,17 @@ Wry
 Wryneck
 Wsw
 Wt
-Wych-
 Wych-hazel
 Wykehamist
 Wysiwyg
-X
 X-ray
-Xe
 Xenon
 Xenophobia
 Xerography
 Xerox
-Xi
 Xmas
 Xylem
 Xylophone
-Y
 Y-fronts
 Yacht
 Yachtsman
@@ -30223,7 +29713,6 @@ Yummy
 Yup
 Yuppie
 Ywca
-Z
 Zabaglione
 Zany
 Zap

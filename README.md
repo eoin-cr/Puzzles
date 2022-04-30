@@ -20,12 +20,19 @@ thinks of a word and you have to guess what it is by entering a letter
 at a time. If your letter is in the word you will be able to see 
 where it was in word the computer thought of.
 
+## Blackjack
+
+Not a puzzle but oh well.  Pretty simple game, you have to get the highest
+number without going over 21.  You start off by getting 2 cards and can choose
+to get another card ("hitting") or stick with the cards you have ("standing").
+Once you stand, the "dealer" will start to play.  The dealer stands once
+they reach 17 points.
 
 # Installing
 
 After installing python3 (if on windows you may have to add it to your
-PATH) (python is preinstalled on all Linux distros)
-, simply use `git clone https://github.com/eoin-cr/Puzzles/` to
+PATH) (python is preinstalled on all Linux distros),
+simply use `git clone https://github.com/eoin-cr/Puzzles/` to
 download the puzzles.  Then do `cd Python` to go to the python puzzles.
 Then simply do `python3 [puzzlename].py` to play :)
 
