@@ -1,9 +1,10 @@
 import random
 import os
+import copy
 
-# notes about this version:
-# most of the basic logic is working, however, functions such as an ace being
-# either 1 or 11 is missing.  There is also no split or double down function.
+# notes about this version: the basic functionality is all here, but I'd like
+# to add some more features, for example: there is also no split or double down
+# function.
 # Also there is no option to play where you don't see the dealer's cards
 # until you stand.  I would also like to add some sort of money counter
 # and betting system, and maybe even the option to set how many decks are used
@@ -44,6 +45,8 @@ def print_cards(cards):
     # print(len(cards))
     # print(int(len(cards)/2))
     for i in range(int(len(cards) / 2)):
+        # print(i)
+        # print(cards[i*2+1])
         # print("hi")
         card = to_char(cards[i * 2])
         # print(f"""
@@ -61,7 +64,10 @@ def print_cards(cards):
     # card_list = [x for x in card_list]
     print(string_merger(card_list, 3))
     total_score = 0
-    for i in range(int(len(cards) / 2)): total_score += to_val(cards[i * 2])
+    # for i in range(int(len(cards) / 2)):
+    #     total_score += to_val(cards[i * 2])
+    # print(cards)
+    total_score = to_val(cards)
     print(f"Total score: {total_score}")
     print("")
 
@@ -80,8 +86,26 @@ def to_char(card):
             return card
 
 
-def to_val(card):
-    return 10 if card > 10 else card
+def to_val(cards_list):
+    cards = copy.deepcopy(cards_list)
+    cards = cards[::2]
+    # print(cards)
+    # for card in cards:
+    for i, card in enumerate(cards):
+        if card > 10:
+            cards[i] = 10
+        elif card == 1:
+            cards[i] = 11
+
+    # print(cards)
+    total = sum(cards)
+    count = cards.count(11)
+    # if total > 21:
+    while count > 0 and total > 21:
+        total -= 10
+        count -= 1
+
+    return total
 
 
 def game(selection):
@@ -89,22 +113,22 @@ def game(selection):
     # user_cards = pick_cards() + pick_cards()
     user_cards = pick_cards()
     # user_score = to_val(user_cards[0]) + to_val(user_cards[2])
-    user_score = to_val(user_cards[0])
-    comp_score = to_val(comp_cards[0]) + to_val(comp_cards[2])
+    user_score = to_val(user_cards)
+    comp_score = to_val(comp_cards)
 
     if selection == 1:
         # user
         choice = "H"
         while choice != "S":
             user_cards += pick_cards()
-            user_score += to_val(user_cards[-2])
+            user_score = to_val(user_cards)
             os.system('cls' if os.name == 'nt' else 'clear')  # clears terminal
             print("Dealer's cards:", end="")
             print_cards(comp_cards)
             print("Your cards:", end="")
             print_cards(user_cards)
-            if (user_cards[0] == 1 and to_val(user_cards[2]) == 10 or
-                    to_val(user_cards[0]) == 10 and user_cards[0] == 1):
+            if (user_cards[0] == 1 and user_cards[2] >= 10 or
+                    user_cards[0] >= 10 and user_cards[0] == 1):
                 print("Blackjack!  You win!")
                 exit(0)
             elif user_score > 21:
@@ -112,9 +136,9 @@ def game(selection):
                 exit(0)
 
             choice = input("Enter H to hit (get another card) or S to stand ("
-                           "stick with the cards you have)").upper()
+                           "stick with the cards you have): ").upper()
             while choice != "H" and choice != "S":
-                choice = input("Invalid input.  Enter H to hit or S to stand")
+                choice = input("Invalid input.  Enter H to hit or S to stand: ")
 
         if user_score > 21:
             print("You're bust!  You lose.")
@@ -122,7 +146,7 @@ def game(selection):
 
         while comp_score < 17:
             comp_cards += pick_cards()
-            comp_score += to_val(comp_cards[-2])
+            comp_score = to_val(comp_cards)
             os.system('cls' if os.name == 'nt' else 'clear')  # clears terminal
             print("Dealer's cards:", end="")
             print_cards(comp_cards)
@@ -140,3 +164,5 @@ def game(selection):
 
 
 game(1)
+# print(to_val([1, 1, 10]))
+# print(to_val([13, 13]))
