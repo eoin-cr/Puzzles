@@ -1,18 +1,17 @@
 import random
 import os
 import copy
+import time
 
 # notes about this version: the basic functionality is all here, but I'd like
 # to add some more features, for example: there is also no split or double down
-# function.
-# Also there is no option to play where you don't see the dealer's cards
-# until you stand.  I would also like to add some sort of money counter
+# function.  I would also like to add some sort of money counter
 # and betting system, and maybe even the option to set how many decks are used
 # so it becomes possible to try counting cards.
 
 
-suits = ["♧", "♤", "♢", "♡"]
-suit_names = ["clubs", "spades", "diamonds", "hearts"]
+suits = ["♧", "♤", "♢", "♡", "?"]
+suit_names = ["clubs", "spades", "diamonds", "hearts", "?"]
 
 
 def pick_cards():
@@ -88,6 +87,8 @@ def to_char(card):
 
 def to_val(cards_list):
     cards = copy.deepcopy(cards_list)
+    if "?" in cards:
+        return "?"
     cards = cards[::2]
     # print(cards)
     # for card in cards:
@@ -98,10 +99,13 @@ def to_val(cards_list):
             cards[i] = 11
 
     # print(cards)
+
     total = sum(cards)
     count = cards.count(11)
     # if total > 21:
     while count > 0 and total > 21:
+        print(total)
+        print(count)
         total -= 10
         count -= 1
 
@@ -116,53 +120,73 @@ def game(selection):
     user_score = to_val(user_cards)
     comp_score = to_val(comp_cards)
 
-    if selection == 1:
-        # user
-        choice = "H"
-        while choice != "S":
-            user_cards += pick_cards()
-            user_score = to_val(user_cards)
-            os.system('cls' if os.name == 'nt' else 'clear')  # clears terminal
-            print("Dealer's cards:", end="")
-            print_cards(comp_cards)
-            print("Your cards:", end="")
-            print_cards(user_cards)
-            if (user_cards[0] == 1 and user_cards[2] >= 10 or
-                    user_cards[0] >= 10 and user_cards[0] == 1):
-                print("Blackjack!  You win!")
-                exit(0)
-            elif user_score > 21:
-                print("You're bust!  You lose.")
-                exit(0)
-
-            choice = input("Enter H to hit (get another card) or S to stand ("
-                           "stick with the cards you have): ").upper()
-            while choice != "H" and choice != "S":
-                choice = input("Invalid input.  Enter H to hit or S to stand: ")
-
-        if user_score > 21:
+    if selection == 2:
+        dealer_display_cards = ["?", 4, "?", 4]
+    else:
+        dealer_display_cards = comp_cards
+    choice = "H"
+    while choice != "S":
+        user_cards += pick_cards()
+        user_score = to_val(user_cards)
+        os.system('cls' if os.name == 'nt' else 'clear')  # clears terminal
+        print("Dealer's cards:", end="")
+        print_cards(dealer_display_cards)
+        print("Your cards:", end="")
+        print_cards(user_cards)
+        if (user_cards[0] == 1 and user_cards[2] >= 10 or
+                user_cards[0] >= 10 and user_cards[0] == 1):
+            print("Blackjack!  You win!")
+            exit(0)
+        elif user_score > 21:
             print("You're bust!  You lose.")
             exit(0)
 
-        while comp_score < 17:
-            comp_cards += pick_cards()
-            comp_score = to_val(comp_cards)
-            os.system('cls' if os.name == 'nt' else 'clear')  # clears terminal
-            print("Dealer's cards:", end="")
-            print_cards(comp_cards)
-            print("Your cards:", end="")
-            print_cards(user_cards)
+        choice = input("Enter H to hit (get another card) or S to stand ("
+                       "stick with the cards you have): ").upper()
+        while choice != "H" and choice != "S":
+            choice = input("Invalid input.  Enter H to hit or S to stand: ")
 
-        # print(user_score)
-        # print()
-        if user_score > comp_score or comp_score > 21:
-            print("You win!")
-        elif user_score == comp_score:
-            print("It's a draw!")
-        else:
-            print("The computer wins!")
+    if user_score > 21:
+        print("You're bust!  You lose.")
+        exit(0)
+
+    while comp_score < 17:
+        comp_cards += pick_cards()
+        comp_score = to_val(comp_cards)
+        os.system('cls' if os.name == 'nt' else 'clear')  # clears terminal
+        print("Dealer's cards:", end="")
+        print_cards(comp_cards)
+        print("Your cards:", end="")
+        print_cards(user_cards)
+        if comp_score < 17:
+            time.sleep(1)
+
+    # print(user_score)
+    # print()
+    if user_score > comp_score or comp_score > 21:
+        print("You win!")
+    elif user_score == comp_score:
+        print("It's a draw!")
+    else:
+        print("The computer wins!")
 
 
-game(1)
+# game(1)
 # print(to_val([1, 1, 10]))
 # print(to_val([13, 13]))
+
+def menu():
+    choice = int(input("Enter 1 to play the casino version of blackjack, where you"
+                       " can see the dealers cards.  Enter 2 to play the version "
+                       "of blackjack where you cannot see the dealers cards: "))
+
+    # print(choice)
+    # print(choice != 1)
+    # print(choice != 2)
+    while choice != 1 and choice != 2:
+        choice = input("Invalid input!  Enter either 1 or 2: ")
+
+    game(choice)
+
+
+menu()
